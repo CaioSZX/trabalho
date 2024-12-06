@@ -1,0 +1,64 @@
+@charset "UFT-8";
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    text-align: center;
+    background-color: black;
+    
+   
+}
+
+nav a{
+    text-decoration: none;
+    margin-left: 200px;
+    color: white;
+    font-size: 2em;
+}
+
+header{
+    background-image: url("matematica2.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 290px;
+    width: 2100px;
+    top: 30%;
+    left: -10%;
+    position: relative;
+    
+}
+
+.p1{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 30%;
+    left: 0%;
+    font-size: 8em;
+    }
+
+    .h2{
+
+    text-align: center;
+    
+    }
+
+    iframe{
+       position: relative;
+       top: 30%;
+       left: 30%;
+    }
+
+    p{
+       margin-left: 200px;
+       margin-right: 200px;
+       text-align: justify;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    h1{
+        text-align: center;
+    }
